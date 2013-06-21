@@ -10,9 +10,9 @@ this, we do have to start somewhere. In a way, this part of the process reminds
 me of storyboarding, or creating animation keyframes, with the in-between frames
 being developed later. We’re going to do that here.
 
-***Major breakpoints** are conditions that, when met, trigger major changes in 
+_**Major breakpoints** are conditions that, when met, trigger major changes in 
 your design. A major breakpoint might be, for example, where your entire layout 
-must change from two columns to four.*
+must change from two columns to four._
 
 Let’s say you’ve chosen three basic design directions from your thumbnails. 
 Think about what your major breakpoints will look like (Figure 7.6). And here’s 
@@ -46,10 +46,10 @@ design that will better fit within time and budget constraints
 consideration
 * What technologies you’ll need to develop the design responsively
 
-***Rough sketches** are more detailed than thumbnails, but they shouldn’t take 
+_**Rough sketches** are more detailed than thumbnails, but they shouldn’t take 
 a long time to create. In a short period, you should have a sketch of each 
 major breakpoint for each of your chosen designs. This should be enough to 
-decide on one of the designs.*
+decide on one of the designs._
 
 ![Figure 7.6][Figure 7.6]
 
@@ -60,9 +60,9 @@ you do your web-based mockup. You’ll find out why and how in the next chapter.
 In the meantime, simply focus on making sketches of the state of your web pages
 or app screens at the major breakpoints of each design.
 
-***Minor breakpoints** are conditions that, when met, trigger small changes in 
+_**Minor breakpoints** are conditions that, when met, trigger small changes in 
 your design. An example would be moving form labels from above text fields to 
-the left of those fields, while the rest of the design remains the same.*
+the left of those fields, while the rest of the design remains the same._
 
 At this point, don’t worry too much if you notice that the initial breakpoints
 on your breakpoint graph simply won’t do. Those were just a starting point, and
@@ -112,10 +112,10 @@ targets, but slightly smaller links with plenty of space around them can work
 just as well. That said, there’s a decent chance that no matter what you choose
 to sketch, you’ll end up making changes again when you create your mockups.
 
-***Note**: Distinguish between **touchability** and **clickability**. Many 
+_**Note**: Distinguish between **touchability** and **clickability**. Many 
 designers, myself included, have made the mistake of refining links for people 
 who click on them using a mouse, or even via the keyboard, without considering 
-how touchable these links are for people on touch devices.*
+how touchable these links are for people on touch devices._
 
 This is the great thing about sketching that I can’t repeat often enough: 
 you’re going to refine your design in the browser anyway, so the speed with 
