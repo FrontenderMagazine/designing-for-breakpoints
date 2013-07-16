@@ -277,8 +277,10 @@ Copyright © 2013.
 
 <a href="#ref-1" id="note-1" class="note">1.</a> Эдвард Боно,
 «Нестандартное мышление» (Viking, 2009).
+
 <a href="#ref-2" id="note-2" class="note">2.</a>
 [http://en.wikipedia.org/wiki/Oblique_Strategies][4]
+
 <a href="#ref-3" id="note-3" class="note">3.</a>
 [http://bradfrost.github.com/this-is-responsive/][5]
 
