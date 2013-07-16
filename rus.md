@@ -275,12 +275,12 @@ Copyright © 2013.
 
 ### Примечания
 
-<a href="#ref-1" id="note-1" class="note">1.</a> Эдвард Боно, 
-«Нестандартное мышление» (Viking, 2009).  
-<a href="#ref-2" id="note-2" class="note">2.</a> 
-[http://en.wikipedia.org/wiki/Oblique_Strategies][4]  
-<a href="#ref-3" id="note-3" class="note">3.</a> 
-[http://bradfrost.github.com/this-is-responsive/][5]  
+<p><a href="#ref-1" id="note-1" class="note">1.</a> Эдвард Боно, 
+«Нестандартное мышление» (Viking, 2009). </p>
+<p><a href="#ref-2" id="note-2" class="note">2.</a> 
+[http://en.wikipedia.org/wiki/Oblique_Strategies][4]  </p>
+<p><a href="#ref-3" id="note-3" class="note">3.</a> 
+[http://bradfrost.github.com/this-is-responsive/][5]  </p>
 
 [1]: http://www.peachpit.com/store/responsive-design-workflow-9780321887863
 [2]: http://mobilism.nl/
